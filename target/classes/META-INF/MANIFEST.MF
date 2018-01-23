@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Aplicacao spring
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: klein
+Implementation-Vendor-Id: springTest
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/testeSpring/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
